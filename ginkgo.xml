@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project name="pa-ginkgo/device_xiaomi_ginkgo" path="device/xiaomi/ginkgo" remote="github" revision="sapphire" />
+        <project name="pa-ginkgo/kernel_xiaomi_ginkgo" path="kernel/xiaomi/ginkgo" remote="github" revision="sapphire" />
+        <project name="pa-ginkgo/vendor_xiaomi_ginkgo" path="vendor/xiaomi/ginkgo" remote="github" revision="sapphire" />
+</manifest>
